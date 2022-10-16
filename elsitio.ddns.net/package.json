@@ -1,0 +1,22 @@
+{
+  "name": "elsitio.ddns.net",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/redesdedatos/elsitio.ddns.net.git"
+  },
+  "keywords": [
+    "elsitio"
+  ],
+  "author": "Horacio Karzon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/redesdedatos/elsitio.ddns.net/issues"
+  },
+  "homepage": "https://bitbucket.org/redesdedatos/elsitio.ddns.net#readme"
+}
